@@ -1,0 +1,1 @@
+/bin/c++ -g CMakeFiles/Dialog.dir/main.cpp.o CMakeFiles/Dialog.dir/Dialog.cpp.o -o Dialog  /home/danila/LABS_3SEM/3lab.2/Class_Table/cmake-build-debug/lib3lab.2.a 

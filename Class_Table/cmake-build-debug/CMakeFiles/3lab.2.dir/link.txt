@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib3lab.2.a CMakeFiles/3lab.2.dir/Table.cpp.o
+/usr/bin/ranlib lib3lab.2.a

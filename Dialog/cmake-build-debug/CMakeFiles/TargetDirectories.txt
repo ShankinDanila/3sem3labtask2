@@ -1,0 +1,3 @@
+/home/danila/LABS_3SEM/3lab.2/Dialog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danila/LABS_3SEM/3lab.2/Dialog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danila/LABS_3SEM/3lab.2/Dialog/cmake-build-debug/CMakeFiles/Dialog.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.h
+iostream
+-
+cstring
+-
+
+/home/danila/LABS_3SEM/3lab.2/Dialog/Dialog.cpp
+Dialog.h
+/home/danila/LABS_3SEM/3lab.2/Dialog/Dialog.h
+../Class_Table/Table.h
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.h
+iostream
+-
+
+/home/danila/LABS_3SEM/3lab.2/Dialog/Dialog.h
+../Class_Table/Table.h
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.h
+
+/home/danila/LABS_3SEM/3lab.2/Dialog/main.cpp
+iostream
+-
+../Class_Table/Table.h
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.h
+Dialog.h
+/home/danila/LABS_3SEM/3lab.2/Dialog/Dialog.h
+

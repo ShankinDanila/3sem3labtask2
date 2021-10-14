@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.cpp
+Table.h
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.h
+iostream
+-
+
+/home/danila/LABS_3SEM/3lab.2/Class_Table/Table.h
+iostream
+-
+cstring
+-
+
